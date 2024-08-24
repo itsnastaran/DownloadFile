@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d64bb5e-f07c-4184-a115-4ac1a1b86afc": {
+      "ProjectGuid": "2d64bb5e-f07c-4184-a115-4ac1a1b86afc",
+      "DisplayName": "DownloadFile",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

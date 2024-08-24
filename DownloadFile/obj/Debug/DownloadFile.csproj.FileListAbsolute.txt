@@ -1,0 +1,51 @@
+E:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\bin\Debug\DownloadFile.exe.config
+E:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\bin\Debug\DownloadFile.exe
+E:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\bin\Debug\DownloadFile.pdb
+E:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csprojResolveAssemblyReference.cache
+E:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.Form1.resources
+E:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.Properties.Resources.resources
+E:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csproj.GenerateResource.Cache
+E:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.exe
+E:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.pdb
+E:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\bin\Debug\DownloadFile.exe.manifest
+E:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\bin\Debug\DownloadFile.application
+E:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.exe.manifest
+E:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.application
+F:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csproj.AssemblyReference.cache
+F:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csproj.SuggestedBindingRedirects.cache
+F:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.Form1.resources
+F:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.Properties.Resources.resources
+F:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csproj.GenerateResource.cache
+F:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csproj.CoreCompileInputs.cache
+F:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.exe
+F:\ChandManzoore\7-csharp\codes\DownloadFile\DownloadFile\obj\Debug\DownloadFile.pdb
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\obj\Debug\DownloadFile.csproj.AssemblyReference.cache
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\obj\Debug\DownloadFile.csproj.SuggestedBindingRedirects.cache
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\obj\Debug\DownloadFile.Form1.resources
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\obj\Debug\DownloadFile.Properties.Resources.resources
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\obj\Debug\DownloadFile.csproj.GenerateResource.cache
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\obj\Debug\DownloadFile.csproj.CoreCompileInputs.cache
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\obj\Debug\DownloadFile.exe
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\obj\Debug\DownloadFile.pdb
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\bin\Debug\DownloadFile.exe.config
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\bin\Debug\DownloadFile.exe.manifest
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\bin\Debug\DownloadFile.application
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\bin\Debug\DownloadFile.exe
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\bin\Debug\DownloadFile.pdb
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\obj\Debug\DownloadFile.exe.manifest
+F:\ChandManzoore\7-csharp\codes\DownloadFile - Copy\DownloadFile\obj\Debug\DownloadFile.application
+D:\Git\myprojects\DownloadFile\DownloadFile\bin\Debug\DownloadFile.exe.config
+D:\Git\myprojects\DownloadFile\DownloadFile\bin\Debug\DownloadFile.exe.manifest
+D:\Git\myprojects\DownloadFile\DownloadFile\bin\Debug\DownloadFile.application
+D:\Git\myprojects\DownloadFile\DownloadFile\bin\Debug\DownloadFile.exe
+D:\Git\myprojects\DownloadFile\DownloadFile\bin\Debug\DownloadFile.pdb
+D:\Git\myprojects\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csproj.AssemblyReference.cache
+D:\Git\myprojects\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csproj.SuggestedBindingRedirects.cache
+D:\Git\myprojects\DownloadFile\DownloadFile\obj\Debug\DownloadFile.Form1.resources
+D:\Git\myprojects\DownloadFile\DownloadFile\obj\Debug\DownloadFile.Properties.Resources.resources
+D:\Git\myprojects\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csproj.GenerateResource.cache
+D:\Git\myprojects\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csproj.CoreCompileInputs.cache
+D:\Git\myprojects\DownloadFile\DownloadFile\obj\Debug\DownloadFile.exe.manifest
+D:\Git\myprojects\DownloadFile\DownloadFile\obj\Debug\DownloadFile.application
+D:\Git\myprojects\DownloadFile\DownloadFile\obj\Debug\DownloadFile.exe
+D:\Git\myprojects\DownloadFile\DownloadFile\obj\Debug\DownloadFile.pdb
